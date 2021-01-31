@@ -7,7 +7,6 @@ With this code you can test the strength of your password.
 ```bash
 git clone https://github.com/aaanndri/pw-strenth-checker/
 cd pw-strenth-checker
-pip install -r requirements.txt
 ```
 
 ## Usage
