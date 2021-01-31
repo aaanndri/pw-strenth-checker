@@ -4,10 +4,10 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
-pip install foobar
+git clone https://github.com/aaanndri/pw-strenth-checker/
+cd pw-strenth-checker
+pip install -r requirements.txt
 ```
 
 ## Usage
