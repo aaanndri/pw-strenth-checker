@@ -1,3 +1,5 @@
+![image](https://github.com/aaanndri/pw-strenth-checker/blob/main/Password-Strength-Checker.jpg) 
+
 # pw-strenth-checker
 
 With this code you can test the strength of your password.
